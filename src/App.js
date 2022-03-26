@@ -37,6 +37,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <h2>Hello world</h2>
       <div className='container mt-5'>
         <div className='row justify-content-between'>
           {
@@ -52,7 +53,7 @@ function App() {
             title="Продаю Audi"
             price={5000}
           /> */}
-sdasd
+
         </div>
       </div>
       <div className='mt-5'>
